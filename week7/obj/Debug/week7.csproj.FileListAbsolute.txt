@@ -1,0 +1,10 @@
+c:\users\kayla\source\repos\week7\week7\bin\Debug\week7.exe.config
+c:\users\kayla\source\repos\week7\week7\bin\Debug\week7.exe
+c:\users\kayla\source\repos\week7\week7\bin\Debug\week7.pdb
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.csprojResolveAssemblyReference.cache
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.Form1.resources
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.Properties.Resources.resources
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.csproj.GenerateResource.Cache
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.csproj.CoreCompileInputs.cache
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.exe
+c:\users\kayla\source\repos\week7\week7\obj\Debug\week7.pdb
